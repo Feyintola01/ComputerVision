@@ -59,3 +59,4 @@ testing_labels =testing_labels[:4000]
 # prediction = model.predict(np.array([img])/255)
 # index= np.argmax(prediction)
 # print(f'prediction is: {class_names[index]}')
+
